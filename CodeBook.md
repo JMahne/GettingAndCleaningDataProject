@@ -2,7 +2,7 @@
 
 For the provided UCI HAR Dataset the following vars are set from run_analysis.R. See the README for additional details.
 
-#Tidy
+#Tidy.txt
 
 This is a table with 3 columns:
 
